@@ -1,0 +1,57 @@
+{
+	"version" : "0.1",
+	"name"    : "ZenBurningChrome",
+	"theme"   : {
+		"images"     : {
+			"theme_frame"                    : "images/theme_frame.png",
+			"theme_frame_inactive"           : "images/theme_frame_inactive.png",
+			"theme_frame_incognito"          : "images/theme_frame_incognito.png",
+			"theme_frame_incognito_inactive" : "images/theme_frame_incognito_inactive.png",
+			// "theme_frame_overlay"            : "images/theme_frame_stripe.png",
+			// "theme_frame_overlay_inactive"   : "images/theme_frame_stripe.png",
+			"theme_tab_background"           : "images/theme_tab_background.png",
+			"theme_tab_background_incognito" : "images/theme_tab_background_incognito.png",
+			// "theme_tab_background_v"         : "images/theme_frame_stripe.png",
+			// "theme_button_background"        : "images/theme_frame_stripe.png",
+			"theme_toolbar"                  : "images/theme_toolbar.png",
+			// "theme_window_control"           : "images/theme_ntp_background_norepeat.png",
+			// "theme_ntp_background"           : "images/theme_ntp_background_norepeat.png",
+			"theme_ntp_attribution"          : "images/theme_ntp_attribution.png"
+		},
+		"colors"     : {
+			"frame"                      : [ 63,  63,  63],
+			"frame_inactive"             : [ 50,  50,  50],
+			"frame_incognito"            : [ 30,  30,  30],
+			"frame_incognito_inactive"   : [ 10,  10,  10],
+			"toolbar"                    : [ 95,  95,  95],
+			"toolbar_tab_text"           : [220, 220, 204],
+			"tab_background_text"        : [200, 200, 184],
+			"tab_text"                   : [220, 220, 204],
+			"ntp_background"             : [ 63,  63,  63],
+			"ntp_text"                   : [220, 220, 204],
+			"ntp_link"                   : [240, 223, 175],
+			"ntp_link_underline"         : [240, 223, 175],
+			"ntp_header"                 : [ 95,  95,  95],
+			"ntp_section"                : [ 95,  95,  95],
+			"ntp_section_text"           : [220, 220, 204],
+			"ntp_section_link"           : [240, 223, 175],
+			"ntp_section_link_underline" : [240, 223, 175],
+			"control_background"         : [ 79,  79,  79],
+			"bookmark_text"              : [223, 175, 143],
+			"button_background"          : [ 79,  79,  79]
+		},
+		"tints"      : {
+			// "frame"           : [0.33, 0.5, 0.47],
+			// "frame_inactive"  : [0.33, 0.5, 0.47],
+			// "frame_incognito" : [0.33, 0.5, 0.47],
+			// "frame_inactive"  : [0.33, 0.5, 0.47],
+			"buttons"         : [0.0, 0.114, 0.192],
+			"background_tab"  : [0.0, 0.215, 0.359]
+		}
+		// "properties" : {
+			// "ntp_background_alignment" : "bottom", // [top|bottom|left|right]
+			// "ntp_background_tiling"    : "bottom", // [no-repeat|repeat-x|repeat-y|repeat]
+			// "ntp_logo_alternate"       : "bottom"
+		// }
+	}
+}
