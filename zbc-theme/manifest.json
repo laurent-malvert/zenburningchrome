@@ -2,13 +2,12 @@
 	"name"           : "ZenBurningChrome",
 	"version"        : "0.1",
 	"description"    : "A Chrome/Chromium theme based on the popular Zenburn vi theme.",
-	"default_locale" : "en",
-	"icons"          : {
-		"19"  : "images/icons/19x19.png",
-		"32"  : "images/icons/32x32.png",
-		"48"  : "images/icons/48x48.png",
-        "128" : "images/icons/128x128.png"
-	},
+	// "icons"          : {
+	// 	"19"  : "images/icons/19x19.png",
+	// 	"32"  : "images/icons/32x32.png",
+	// 	"48"  : "images/icons/48x48.png",
+    //     "128" : "images/icons/128x128.png"
+	// },
 	"theme"          : {
 		"images"     : {
 			"theme_frame"                    : "images/theme/frame.png",
