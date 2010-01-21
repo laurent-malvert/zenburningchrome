@@ -1,6 +1,6 @@
 {
 	"name"           : "ZenBurningChrome",
-	"version"        : "0.1",
+	"version"        : "0.1.1",
 	"description"    : "A Chrome/Chromium theme based on the popular Zenburn vi theme.",
 	"theme"          : {
 		"images"     : {
