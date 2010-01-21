@@ -1,22 +1,30 @@
 {
-	"version" : "0.1",
-	"name"    : "ZenBurningChrome",
-	"theme"   : {
+	"name"           : "ZenBurningChrome",
+	"version"        : "0.1",
+	"description"    : "A Chrome/Chromium theme based on the popular Zenburn vi theme.",
+	"default_locale" : "en",
+	"icons"          : {
+		"19"  : "images/icons/19x19.png",
+		"32"  : "images/icons/32x32.png",
+		"48"  : "images/icons/48x48.png",
+        "128" : "images/icons/128x128.png"
+	},
+	"theme"          : {
 		"images"     : {
-			"theme_frame"                    : "images/theme_frame.png",
-			"theme_frame_inactive"           : "images/theme_frame_inactive.png",
-			"theme_frame_incognito"          : "images/theme_frame_incognito.png",
-			"theme_frame_incognito_inactive" : "images/theme_frame_incognito_inactive.png",
-			// "theme_frame_overlay"            : "images/theme_frame_stripe.png",
-			// "theme_frame_overlay_inactive"   : "images/theme_frame_stripe.png",
-			"theme_tab_background"           : "images/theme_tab_background.png",
-			"theme_tab_background_incognito" : "images/theme_tab_background_incognito.png",
-			// "theme_tab_background_v"         : "images/theme_frame_stripe.png",
-			// "theme_button_background"        : "images/theme_frame_stripe.png",
-			"theme_toolbar"                  : "images/theme_toolbar.png",
-			// "theme_window_control"           : "images/theme_ntp_background_norepeat.png",
-			// "theme_ntp_background"           : "images/theme_ntp_background_norepeat.png",
-			"theme_ntp_attribution"          : "images/theme_ntp_attribution.png"
+			"theme_frame"                    : "images/theme/frame.png",
+			"theme_frame_inactive"           : "images/theme/frame_inactive.png",
+			"theme_frame_incognito"          : "images/theme/frame_incognito.png",
+			"theme_frame_incognito_inactive" : "images/theme/frame_incognito_inactive.png",
+			// "theme_frame_overlay"            : "images/theme/frame_stripe.png",
+			// "theme_frame_overlay_inactive"   : "images/theme/frame_stripe.png",
+			"theme_tab_background"           : "images/theme/tab_background.png",
+			"theme_tab_background_incognito" : "images/theme/tab_background_incognito.png",
+			// "theme_tab_background_v"         : "images/theme/frame_stripe.png",
+			// "theme_button_background"        : "images/theme/frame_stripe.png",
+			"theme_toolbar"                  : "images/theme/toolbar.png",
+			// "theme_window_control"           : "images/theme/ntp_background_norepeat.png",
+			// "theme_ntp_background"           : "images/theme/ntp_background_norepeat.png",
+			"theme_ntp_attribution"          : "images/theme/ntp_attribution.png"
 		},
 		"colors"     : {
 			"frame"                      : [ 63,  63,  63],
