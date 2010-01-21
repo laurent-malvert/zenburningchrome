@@ -1,0 +1,58 @@
+changeset:   10:6128c5983cb7
+tag:         tip
+user:        laurent.malvert
+date:        Thu Jan 21 01:56:02 2010 +0000
+summary:     Added tag zbc-0.1.1 for changeset 0df31601ff3d
+
+changeset:   9:0df31601ff3d
+tag:         zbc-0.1.1
+user:        laurent.malvert
+date:        Thu Jan 21 01:45:24 2010 +0000
+summary:     modified zbc-theme's name field to read "ZenBurningChrome Theme"
+
+changeset:   8:d426c6f47861
+user:        laurent.malvert
+date:        Thu Jan 21 01:40:47 2010 +0000
+summary:     updated version to 0.1.1
+
+changeset:   7:16e23fa645e7
+user:        laurent.malvert
+date:        Thu Jan 21 01:39:26 2010 +0000
+summary:     Updated the manifest because the gallery doesn't accept extensions with comments in the manifests.
+
+changeset:   6:95bb8d79086d
+user:        laurent.malvert
+date:        Thu Jan 21 01:35:18 2010 +0000
+summary:     Apparently cannot use extensions code at all in a theme :(, so:
+
+changeset:   5:21021bd00544
+user:        laurent.malvert
+date:        Thu Jan 21 01:23:53 2010 +0000
+summary:     updates for tentative 0.1.1 update.
+
+changeset:   4:b703dedec9e9
+user:        laurent.malvert
+date:        Wed Jan 20 23:41:25 2010 +0000
+summary:     Added tag zbc-0.1 for changeset 06b9d5e1a4c7
+
+changeset:   3:06b9d5e1a4c7
+tag:         zbc-0.1
+user:        lo@lam-laptop-r1e
+date:        Wed Jan 20 23:40:49 2010 +0000
+summary:     Added tag zbc-0.1 for changeset bb499c0084fb
+
+changeset:   2:bb499c0084fb
+user:        laurent.malvert
+date:        Wed Jan 20 23:23:13 2010 +0000
+summary:     removing useless manigest; updating correct one with alternate logo
+
+changeset:   1:11e9b78acc66
+user:        laurent.malvert
+date:        Wed Jan 20 23:18:26 2010 +0000
+summary:     Switching to a white Google logo for the New Tab Page.
+
+changeset:   0:dc4e4a74c088
+user:        lo@lam-laptop-r1e
+date:        Wed Jan 20 23:01:26 2010 +0000
+summary:     first commit for tentative 0.1
+
