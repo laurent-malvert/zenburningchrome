@@ -1,0 +1,24 @@
+The ZBC Theme is a low-contrast visual theme for Google Chrome & Chromium.
+
+It is based on the [Emacs 24 theme by bbastov][1], itself based on an
+earlier [Emacs port of the theme by Daniel Brockman][2]. All of which
+are based on an original idea of a [Vi theme by Jani Nurminen][3].
+
+
+
+The [ZBC projects][4] are a collection of themes and extensions, named
+after the ZBC Theme (the original project) and the Chrome/Chromium
+browsers, and paying tribute to the "Burning Chrome" novel by William
+Gibson.
+
+
+*Special Thanks to:* the original creators of the Zenburn themes,
+Google, the Google Chrome Team, the Chromium project and William
+Gibson.
+
+
+ [1] : https://github.com/bbatsov/zenburn-emacs/
+ [2] : https://github.com/dbrock/zenburn-el/
+ [3] : http://slinky.imukuppi.org/zenburnpage/
+ [4] : http://zenburningchrome.googlecode.com/
+

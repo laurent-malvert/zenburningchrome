@@ -17,6 +17,7 @@
             "theme_frame_overlay"               : "images/theme/frame_overlay.png",
 
             "theme_ntp_attribution"             : "images/theme/ntp_attribution.png",
+            "theme_ntp_background"              : "images/theme/ntp_background.png",
 
             "theme_tab_background"              : "images/theme/tab_background.png",
             "theme_tab_background_incognito"    : "images/theme/tab_background_incognito.png",
@@ -55,8 +56,8 @@
             "search_default_background"         : [ 63,  63,  63],
             "search_ntp_background"             : [ 63,  63,  63],
             "search_search_background"          : [ 63,  63,  63],
-            "search_separator"                  : [220, 220, 204],
-            "search_separator_line"             : [220, 220, 204],
+            "search_separator"                  : [ 79,  79,  79],
+            "search_separator_line"             : [ 79,  79,  79],
 
             "tab_background_text"               : [200, 200, 184],
             "tab_text"                          : [220, 220, 204],
@@ -83,6 +84,8 @@
         },
 
         "properties" : {
+	    "ntp_alignment"                     : "bottom",
+	    "ntp_background_alignment"          : "bottom",
 	    "ntp_background_repeat"             : "no-repeat",
             "ntp_inverse_logo"                  : 1,
             "ntp_logo_alternate"                : 1
