@@ -3,7 +3,7 @@
     "manifest_version" : 2,
 
     "name"             : "ZenBurningChrome Theme",
-    "version"          : "0.2",
+    "version"          : "0.2.1",
 
     "description"      : "A Chrome/Chromium theme based on the popular Zenburn theme for vi and emacs.",
 
